@@ -1,0 +1,74 @@
+.headercalss {
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.formclass {
+  display: flex;
+  padding: 10px;
+
+
+}
+
+input {
+  width: 300px;
+  height: 30px;
+}
+label {
+  margin-bottom: 10px;
+}
+.labelinput {
+  display: flex;
+  flex-direction: row;
+}
+
+.label__input {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  
+}
+.divhori{
+  display: flex;
+  position: relative;
+margin-left: 120px;
+
+}
+
+p{
+  text-align: center;
+  margin-left: 150px;
+}
+
+.divhori_radio{
+  display: flex;
+}
+
+.radioinput{
+  height: 15px;
+  width: 100px;
+  margin-left: 10px;
+  
+}
+
+.div__radios{
+  margin-left: 200px;
+}
+.select__class{
+  height: 30px;
+  width: 220px;
+  margin-left: 400px;
+}
+.button__class{
+  width: 150px;
+  height: 35px;
+  color: white;
+  background-color: black;
+  margin-left: 430px;
+  border-radius: 5px;
+  margin-top: 30px;
+}
+
+.p_error{
+  color: red;
+}
